@@ -1,2 +1,3 @@
-Name - Sam
-Registration Number: AY87T0
+Name:  Sam
+Registration Number:  AY87T0
+Address:  #303, LifeCamp Avenue, Rounda, Sambisa, Africa.
