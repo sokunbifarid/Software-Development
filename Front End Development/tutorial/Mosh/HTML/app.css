@@ -1,0 +1,24 @@
+.userpicture {
+    width: 100px;
+    height: 20%;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+  }
+  img {
+    width: 200px;
+    height: 200px;
+    object-fit: scale-down;
+  }
+  p {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  .username {
+    font-weight: bold;
+  }
+  em {
+    font-style: normal;
+    font-weight: bold;
+    color: green;
+  }
